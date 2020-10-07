@@ -1,0 +1,47 @@
+.container{
+    color: white;
+    font-family: Courier, monospace;
+    
+}
+#nama h1, h2{
+    font-weight: bold;
+}
+#benner_satu{
+    color:black;
+    padding:50px;   
+}
+#contact{
+    margin-top: 30px;   
+}
+#halaman2{
+    background-color: #E6E6FA;
+    color:black;
+    padding: 50px;
+}
+#background{
+    background-image: url(gambar/blurred.png);
+    background-size: 100%;
+    padding: 50px;
+}
+#tahun{
+    float:right;
+}
+
+#benner_3{
+    margin-top:25px;
+}
+h1{
+    font-size: 30px;
+}
+.kotak1{
+    background-color: #E6E6FA;
+}
+.kotak2{
+    background-color: white;
+}
+#project{
+    margin-top: 67px;
+}
+li{
+   line-height: 30px;
+}
